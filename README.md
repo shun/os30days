@@ -1,4 +1,5 @@
-# make enviromnent
+# 30日でできる OS自作入門
+## Make enviromnent
 
 * install qemu by brew
 * if you need original source code, download [here](http://book.mynavi.jp/support/pc/1984/HariboteOS.iso)
